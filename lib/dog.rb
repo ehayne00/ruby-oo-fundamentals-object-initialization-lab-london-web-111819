@@ -11,3 +11,5 @@ class Dog
     @name
   end
 end
+
+Dog.new("Mutt")
